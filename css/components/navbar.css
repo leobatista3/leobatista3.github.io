@@ -4,7 +4,12 @@
   left: 0;
   width: 100%;
   z-index: 10;
-  background-color: #02073E;
+  /*background-color: #02073E;
+  background-color: #08521a;
+  background: rgb(1,45,90);
+  background: linear-gradient(4deg, rgba(1,45,90,1) 13%, rgba(1,80,131,1) 33%, rgba(2,7,62,1) 80%);*/
+  background: rgb(3,9,37);
+  background: linear-gradient(0deg, rgba(3,9,37,0.9500175070028011) 0%, rgba(2,7,62,0.896796218487395) 100%);
 }
 
 .navbar .navbar__content {
